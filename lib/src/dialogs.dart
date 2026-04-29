@@ -232,7 +232,7 @@ class _MonthYearPickerDialogState extends State<MonthYearPickerDialog> {
         TextButton(
           style: TextButton.styleFrom(
             padding: const EdgeInsetsDirectional.fromSTEB(
-              32.0,
+              22.0,
               24.0,
               8.0,
               24.0,
